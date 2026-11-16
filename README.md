@@ -17,7 +17,11 @@ A super-enemy will appear if you do not clear the level quickly enough. Each sup
 Clearing a level earns you 1000 points multiplied by whatever level you are on, capped at 9000.
 
 There are four game modes:
+
 Targ - the original game
+
 Spectar - the sequel, in which you can also finish a level by picking up 36 dollar sign pickups worth (10 x level) points each
+
 Universal Chaos - survival mode - kill one enemy, another faster one appears 
+
 Maze - escape the maze to move to the next level - shooting an enemy will spawn another faster one in the opposite corner of the maze
